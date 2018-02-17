@@ -1,0 +1,7 @@
+resolver: lts-10.4
+packages:
+  - location: .
+flags:
+  idris:
+    ffi: true
+    gmp: true
